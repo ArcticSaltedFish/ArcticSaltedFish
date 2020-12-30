@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ## Here is Saltedfish 
 
 ## Intersted in Consumer Electronics
-Collecting unique or weird electronic devices ... 
-Hope to have a Home-Lab of my own !
+Collecting unique or weird electronic devices ...  
+Hope to have a Home-Lab of my own ! 
 
 ## Badges
 
