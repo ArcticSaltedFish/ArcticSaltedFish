@@ -24,7 +24,7 @@ Hope to have a Home-Lab of my own !
 
 ## Badges
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernLights-1&langs_count=10&layout=compact
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernLights-1&langs_count=10&layout=compact)
 
 ## Learing
 ![go](https://img.shields.io/badge/Go-1.4-blue?logo=go "go")
