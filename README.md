@@ -27,7 +27,7 @@ Hope to have a Home-Lab of my own !
 https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernLights-1&langs_count=10&layout=compact
 
 ## Learing
-[![go](https://img.shields.io/badge/Go-1.4-blue?logo=go "go")](https://golang.org/) 
+![go](https://img.shields.io/badge/Go-1.4-blue?logo=go "go")
 
 Chinese (Shanghainese, Wuu)	吴语 
 
