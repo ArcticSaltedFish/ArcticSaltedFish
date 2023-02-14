@@ -14,20 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning ...
 
-## Here is Saltedfish 
+
+## Here is Saltedfish [蘸料]
+🌱 I’m currently learning how to make e-MAGIC SMOKE⚡，Network paralysis🕸️，Colorful Slide🖼️
 
 ## Intersted in Consumer Electronics
 Collecting unique or weird electronic devices ...  
 Hope to have a Home-Lab of my own ! 
 
-## Badges
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernLights-1&langs_count=10&layout=compact)
 
 ## Learing
 ![go](https://img.shields.io/badge/Go-1.15-blue?logo=go "go")
 
 Chinese (Shanghainese, Wuu)	吴语 
+Cantonese
 
