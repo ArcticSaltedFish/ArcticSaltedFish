@@ -25,8 +25,8 @@ Hope to have a Home-Lab of my own !
 
 
 ## Learing
-![go](https://img.shields.io/badge/Go-1.15-blue?logo=go "go")
+![go](https://img.shields.io/badge/Go-1.20-blue?logo=go%20%22go%22)
 
-Chinese (Shanghainese, Wuu)	吴语 
-Cantonese
+Chinese (Shanghainese, Wuu)	吴语   
+Cantonese  
 
