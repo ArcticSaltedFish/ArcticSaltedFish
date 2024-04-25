@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-💬 Here is Saltedfish [蘸料]
-Currently learning how to make e-MAGIC SMOKE，Network Errors，Colorful Slides,Useless documents
+💬 Here is Saltedfish [蘸料]  
+Currently learning how to make e-MAGIC SMOKE，Network Errors，Colorful Slides,Useless documents  
 
-🔭 I’m currently working on anything in ISP market: NR,RedCap,IoT,V2X,RAN.....
+🔭 I’m currently working on anything in ISP market: NR,RedCap,IoT,V2X,RAN.....  
 
-⚡ Intersted in Consumer Electronics
-Collecting unique or weird electronic devices ...  
-Hope to have a Home-Lab of my own ! 
+⚡ Intersted in Consumer Electronics  
+Collecting unique or weird electronic devices ...    
+Hope to have a Home-Lab of my own !   
 
 
 Language
