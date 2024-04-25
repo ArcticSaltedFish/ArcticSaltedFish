@@ -16,17 +16,19 @@ Here are some ideas to get you started:
 -->
 
 
-## Here is Saltedfish [蘸料]
-🌱 I’m currently learning how to make e-MAGIC SMOKE⚡，Network paralysis🕸️，Colorful Slide🖼️
+## 💬 Here is Saltedfish [蘸料]
+Currently learning how to make e-MAGIC SMOKE，Network Errors，Colorful Slides,Useless documents
 
-## Intersted in Consumer Electronics
+## 🔭 I’m currently working on anything in ISP market: NR,RedCap,IoT,V2X,RAN.....
+
+## ⚡ Intersted in Consumer Electronics
 Collecting unique or weird electronic devices ...  
 Hope to have a Home-Lab of my own ! 
 
 
-## Learing
+## Language
 ![go](https://img.shields.io/badge/Go-1.20-blue?logo=go%20%22go%22)
 
 Chinese (Shanghainese, Wuu)	吴语   
-Cantonese  
+Cantonese  Learning
 
